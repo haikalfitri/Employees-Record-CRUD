@@ -1,5 +1,6 @@
 # Employer Record CRUD
 
+Sample Application:
 
 ![Sample GUI](image/GUI%20SS.png)
 
