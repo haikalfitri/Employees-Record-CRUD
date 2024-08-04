@@ -16,11 +16,5 @@ This application is a simple CRUD (Create, Read, Update, Delete) application for
 - **Save**: Save employee records to a CSV file.
 - **Load**: Load employee records from a CSV file.
 
-## Technologies Used
-
-- **Java**: Programming language used for development.
-- **Swing**: Java library for creating the GUI.
-- **CSV**: File format for saving and loading data.
-
 
 
