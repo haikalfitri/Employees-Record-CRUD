@@ -10,7 +10,7 @@ This project is a simple CRUD (Create, Read, Update, Delete) application for man
 ## Features
 
 - **Add**: Add new employee records.
-- **Update**: Update existing employee records.
+- **Update**: Update or edit existing employee records.
 - **Delete**: Delete employee records.
 - **Search**: Search for employee records by employer number.
 - **Save**: Save employee records to a CSV file.
@@ -22,7 +22,5 @@ This project is a simple CRUD (Create, Read, Update, Delete) application for man
 - **Swing**: Java library for creating the GUI.
 - **CSV**: File format for saving and loading data.
 
-## Screenshots
 
-![Screenshot](images/screenshot.png)  <!-- Replace with the path to your image file -->
 
