@@ -1,7 +1,7 @@
 # Employer Record CRUD
 
-Sample GUI 
-![Description of Image](image/GUI%20SS.png)
+
+![Sample GUI](image/GUI%20SS.png)
 
 
 This project is a simple CRUD (Create, Read, Update, Delete) application for managing employee records. The application is built using Java Swing for the graphical user interface (GUI) and demonstrates basic file operations to save and load employee data.
