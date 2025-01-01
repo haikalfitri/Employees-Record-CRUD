@@ -1,4 +1,16 @@
 # Employer Record CRUD
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/haikalfitri/Employees-Record-CRUD.git
+
+2. **Navigate to the project directory**:
+    cd Employees-Record-CRUD
+
+3. **Compile the project:**
+    javac -d bin src/*.java
+
+4. **Run the app**
+    java -jar dist/EmployerApp.jar
 
 Sample Application:
 
