@@ -1,18 +1,20 @@
-## Getting Started
+# Employer Record CRUD
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Sample Application:
 
-## Folder Structure
+![Sample GUI](image/GUI%20SS.png)
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+This application is a simple CRUD (Create, Read, Update, Delete) application for managing employees records. The application is built using Java Swing for the graphical user interface (GUI) and demonstrates basic file operations to save and load employee data.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Features
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- **Add**: Add new employee records.
+- **Update**: Update or edit existing employee records.
+- **Delete**: Delete employee records.
+- **Search**: Search for employee records by employer number.
+- **Save**: Save employee records to a CSV file.
+- **Load**: Load employee records from a CSV file.
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
