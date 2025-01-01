@@ -7,11 +7,7 @@
     ```bash
     cd Employees-Record-CRUD
 
-3. **Compile the project:**
-    ```bash
-    javac -d bin src/*.java
-
-4. **Run the app**
+3. **Run the app**:
     ```bash
     java -jar dist/EmployerApp.jar
 
